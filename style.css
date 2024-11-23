@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: #a14fe3;
+    position: fixed;
+}
+
+h2 {
+    color: #a14fe3;
+}
+
+.mermaid {
+    left: 5vw;
+    max-width: 100vw;
+    text-align: center;
+}
+
+.ruel {
+    list-style: none;
+    font-size: 12px;
+}
+
+.old {
+    color: #2774d9;
+}
+
+.name {
+    color: #ccc3f7;
+}
+
+.state {
+    color: #9eed8e;
+}
+
+.art {
+    color: #f2b166;
+}
